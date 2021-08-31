@@ -1,0 +1,254 @@
+InDir: /home/gsaha/Work/DelphesAnalysis/JobOutput_XZ_20_160
+Lumi: 300000
+Samples:
+  DY1JetsToLL:
+    cross-section: 1188.6
+    file: DY1JetsToLL_BDT_hist.root
+    label: DY+jets
+  #DY2JetsToLL:
+  #  cross-section: 523.0
+  #  file: DY2JetsToLL_BDT_hist.root
+  #  label: DY+jets
+  DY3JetsToLL:
+    cross-section: 169.4
+    file: DY3JetsToLL_BDT_hist.root
+    label: DY+jets
+  GGF_ZZTo4L:
+    cross-section: 0.01482
+    file: GGF_ZZTo4L_BDT_hist.root
+    label: VV+jets
+  TTJets_DiLep:
+    cross-section: 109.84
+    file: TTJets_DiLep_BDT_hist.root
+    label: tt+jets
+  TTWJetsToLNu:
+    cross-section: 0.236
+    file: TTWJetsToLNu_BDT_hist.root
+    label: ttV+jets
+  TTZJetsToLL:
+    cross-section: 0.662
+    file: TTZJetsToLL_BDT_hist.root
+    label: ttV+jets
+  VBF_ZZTo4L:
+    cross-section: 0.002211
+    file: VBF_ZZTo4L_BDT_hist.root
+    label: VV+jets
+  WWW:
+    cross-section: 0.2362
+    file: WWW_BDT_hist.root
+    label: VVV
+  WWZ:
+    cross-section: 0.1889
+    file: WWZ_BDT_hist.root
+    label: VVV
+  WZTo2L2Q_012Jets:
+    cross-section: 5.6
+    file: WZTo2L2Q_012Jets_BDT_hist.root
+    label: VV+jets
+  WZTo3LNu_012Jets:
+    cross-section: 3.11
+    file: WZTo3LNu_012Jets_BDT_hist.root
+    label: VV+jets
+  WZZ:
+    cross-section: 0.06376
+    file: WZZ_BDT_hist.root
+    label: VVV
+  XZ_20_160_Yl_0.001_Yq_0.001:
+    cross-section: 0.000563367
+    file: XZ_20_160_Yl_0.001_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.001_Yq_0.003:
+    cross-section: 0.000868722
+    file: XZ_20_160_Yl_0.001_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.001_Yq_0.005:
+    cross-section: 0.000906978
+    file: XZ_20_160_Yl_0.001_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.001_Yq_0.007:
+    cross-section: 0.000915945
+    file: XZ_20_160_Yl_0.001_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.001_Yq_0.009:
+    cross-section: 0.000917932
+    file: XZ_20_160_Yl_0.001_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.001_Yq_0.01:
+    cross-section: 0.000917507
+    file: XZ_20_160_Yl_0.001_Yq_0.01_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.001:
+    cross-section: 0.00121518
+    file: XZ_20_160_Yl_0.003_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.003:
+    cross-section: 0.00506338
+    file: XZ_20_160_Yl_0.003_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.005:
+    cross-section: 0.00677248
+    file: XZ_20_160_Yl_0.003_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.007:
+    cross-section: 0.00745342
+    file: XZ_20_160_Yl_0.003_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.009:
+    cross-section: 0.00775822
+    file: XZ_20_160_Yl_0.003_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.003_Yq_0.01:
+    cross-section: 0.00784393
+    file: XZ_20_160_Yl_0.003_Yq_0.01_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.001:
+    cross-section: 0.0013382
+    file: XZ_20_160_Yl_0.005_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.003:
+    cross-section: 0.0082419
+    file: XZ_20_160_Yl_0.005_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.005:
+    cross-section: 0.0140296
+    file: XZ_20_160_Yl_0.005_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.007:
+    cross-section: 0.0173643
+    file: XZ_20_160_Yl_0.005_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.009:
+    cross-section: 0.0192057
+    file: XZ_20_160_Yl_0.005_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.005_Yq_0.01:
+    cross-section: 0.0198021
+    file: XZ_20_160_Yl_0.005_Yq_0.01_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.001:
+    cross-section: 0.00137455
+    file: XZ_20_160_Yl_0.007_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.003:
+    cross-section: 0.00995798
+    file: XZ_20_160_Yl_0.007_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.005:
+    cross-section: 0.019881
+    file: XZ_20_160_Yl_0.007_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.007:
+    cross-section: 0.0273802
+    file: XZ_20_160_Yl_0.007_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.009:
+    cross-section: 0.0323514
+    file: XZ_20_160_Yl_0.007_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.007_Yq_0.01:
+    cross-section: 0.034131
+    file: XZ_20_160_Yl_0.007_Yq_0.01_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.001:
+    cross-section: 0.00138809
+    file: XZ_20_160_Yl_0.009_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.003:
+    cross-section: 0.0108753
+    file: XZ_20_160_Yl_0.009_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.005:
+    cross-section: 0.023986
+    file: XZ_20_160_Yl_0.009_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.007:
+    cross-section: 0.0358682
+    file: XZ_20_160_Yl_0.009_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.009:
+    cross-section: 0.0450094
+    file: XZ_20_160_Yl_0.009_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.009_Yq_0.01:
+    cross-section: 0.0485774
+    file: XZ_20_160_Yl_0.009_Yq_0.01_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.001:
+    cross-section: 0.00139109
+    file: XZ_20_160_Yl_0.01_Yq_0.001_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.003:
+    cross-section: 0.0111685
+    file: XZ_20_160_Yl_0.01_Yq_0.003_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.005:
+    cross-section: 0.0255032
+    file: XZ_20_160_Yl_0.01_Yq_0.005_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.007:
+    cross-section: 0.0394213
+    file: XZ_20_160_Yl_0.01_Yq_0.007_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.009:
+    cross-section: 0.0507751
+    file: XZ_20_160_Yl_0.01_Yq_0.009_BDT_hist.root
+    label: Signal
+  XZ_20_160_Yl_0.01_Yq_0.01:
+    cross-section: 0.0553877
+    file: XZ_20_160_Yl_0.01_Yq_0.01_BDT_hist.root
+    label: Signal
+  ZZTo4L_012Jets:
+    cross-section: 0.23
+    file: ZZTo4L_012Jets_BDT_hist.root
+    label: VV+jets
+  ZZZ:
+    cross-section: 0.0158
+    file: ZZZ_BDT_hist.root
+    label: VVV
+
+Groups:
+  VV+jets: 
+    linecolor: 1
+    linestyle: 10
+    linewidth: 3
+  #VVV:
+  #  linecolor: 6
+  #  linestyle: 9
+  #  linewidth: 3
+  ttV+jets: 
+    linecolor: 2
+    linestyle: 8
+    linewidth: 3 
+  #DY+jets: 
+  #  linecolor: 7
+  #  linestyle: 7
+  #  linewidth: 3 
+  #tt+jets: 
+  #  linecolor: 30
+  #  linestyle: 3
+  #  linewidth: 3 
+  Signal:
+    linecolor: 4
+    linestyle: 1
+    linewidth: 3 
+
+plotExtension: pdf
+
+# x1, y1, x2, y2
+legendPos:
+  - 0.12
+  - 0.81
+  - 0.92
+  - 0.95
+
+# Left, Right, Top, Bottom
+Mergin:
+  - 0.12
+  - 0.08
+  #- 0.18
+  - 0.08
+  - 0.12
+
+CanvSize:
+  - 800
+  - 600
